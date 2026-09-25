@@ -16,15 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 ## Binary Search
 |  |
@@ -50,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
