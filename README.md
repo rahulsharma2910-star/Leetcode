@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
