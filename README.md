@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
+| [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
