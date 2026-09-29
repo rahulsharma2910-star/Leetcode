@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
 | ------- |
