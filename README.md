@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
