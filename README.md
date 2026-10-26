@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
