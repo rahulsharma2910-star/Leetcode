@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1672-richest-customer-wealth](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
