@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rahulsharma2910-star/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/rahulsharma2910-star/Leetcode/tree/master/0457-circular-array-loop) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/rahulsharma2910-star/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rahulsharma2910-star/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
